@@ -1,0 +1,8 @@
+ID,Account,Security,Glorp,Quantity,MarketValue
+1,"1234","XXX","AA",11,11.0
+2,"1234","XXX","BB",11,11.0
+3,"4567","AAAA","CC",20,20.0
+4,"4567","AAAA","CC",20,20.0
+5,"4567","CCCC","DD",26,25.0
+6,"5678","BBB","EE",2,2.0
+7,"5678","MMMM","EE",12,12.5
